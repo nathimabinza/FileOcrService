@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileOcrService", "FileOcrService.csproj", "{4522D8F2-F449-72BD-B173-3F0FE1CAE9FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4522D8F2-F449-72BD-B173-3F0FE1CAE9FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4522D8F2-F449-72BD-B173-3F0FE1CAE9FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4522D8F2-F449-72BD-B173-3F0FE1CAE9FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4522D8F2-F449-72BD-B173-3F0FE1CAE9FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90C954EC-75BD-4AD5-81E9-3093B1D43301}
+	EndGlobalSection
+EndGlobal
