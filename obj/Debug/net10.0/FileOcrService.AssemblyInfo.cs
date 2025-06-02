@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FileOcrService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+28d2e3f0e66da95f316c90743f12f12447b34756")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32f03d56a76bd07d283d59d553d925baee73c3d6")]
 [assembly: System.Reflection.AssemblyProductAttribute("FileOcrService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FileOcrService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
